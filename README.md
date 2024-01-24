@@ -1,3 +1,3 @@
 # saurabh
 this is my first git repository
-Auther - sauarbh shimpale
+.Auther - saurabh shimpale
